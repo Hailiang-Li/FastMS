@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+#  ❄️ FastMS ❄️
 
-A simple Streamlit app template for you to modify!
+This repository contains de-duplication and merging of raw mass spectral data.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
